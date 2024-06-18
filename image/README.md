@@ -12,7 +12,7 @@
 ![image2](/image/2.png)
 ## 3. Tile Grid의 Section(MetaTile) 설정
 ![image3](/image/3.png)
-## 4. 다양한 size의 tile을 설정 할 수 있따.
+## 4. 다양한 size의 tile을 설정 할 수 있다.
 ![image4](/image/4.png)
 ## 5. 생성된 Demo image
 ![image5](/image/5.png)
