@@ -6,13 +6,13 @@
 ## 1. Section Meta Tile 설정
 <img src="/image/1.png" alt="image1" width="500" height="300">
 ## 2. Directional Acyclic Graph 설정 Meta-tile과 asset Data을 연결한다.
-!<img src="/image/2.png" alt="image1" width="500" height="300">
+<img src="/image/2.png" alt="image1" width="500" height="300">
 ## 3. Tile Grid의 Section(MetaTile) 설정
-!<img src="/image/3.png" alt="image1" width="500" height="300">
+<img src="/image/3.png" alt="image1" width="500" height="300">
 ## 4. 다양한 size의 tile을 설정 할 수 있다.
-!<img src="/image/4.png" alt="image1" width="500" height="300">
+<img src="/image/4.png" alt="image1" width="500" height="300">
 ## 5. 생성된 Demo image
-!<img src="/image/5.png" alt="image1" width="500" height="300">
+<img src="/image/5.png" alt="image1" width="500" height="300">
 
 ***
 # Future Study
